@@ -1,0 +1,17 @@
+{
+ "id": "744000001",
+ "postingUrl": "https://jobs.smartrecruiters.com/Stark/744000001",
+ "applyUrl": "https://jobs.smartrecruiters.com/Stark/744000001/apply",
+ "jobAd": {
+  "sections": {
+   "jobDescription": {
+    "title": "Job Description",
+    "text": "<p>React and TypeScript UI work.</p>"
+   },
+   "qualifications": {
+    "title": "Qualifications",
+    "text": "<ul><li>React</li><li>1+ years of experience</li></ul>"
+   }
+  }
+ }
+}

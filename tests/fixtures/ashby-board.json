@@ -1,0 +1,37 @@
+{
+ "apiVersion": "1",
+ "jobs": [
+  {
+   "id": "11111111-aaaa-4bbb-8ccc-000000000001",
+   "title": "Prompt Engineer",
+   "department": "AI",
+   "team": "Applied AI",
+   "employmentType": "FullTime",
+   "location": "Remote",
+   "secondaryLocations": [],
+   "publishedAt": "__NOW_ISO__",
+   "isListed": true,
+   "isRemote": true,
+   "workplaceType": "Remote",
+   "jobUrl": "https://jobs.ashbyhq.com/initech/11111111-aaaa-4bbb-8ccc-000000000001",
+   "applyUrl": "https://jobs.ashbyhq.com/initech/11111111-aaaa-4bbb-8ccc-000000000001/application",
+   "descriptionHtml": "<p>Design and evaluate prompts for LLM products.</p><h3>Requirements</h3><ul><li>Prompt engineering experience with LLMs</li><li>Python</li><li>Remote worldwide</li></ul>",
+   "descriptionPlain": "Design and evaluate prompts",
+   "compensation": {
+    "compensationTierSummary": "$80K \u2013 $100K"
+   }
+  },
+  {
+   "id": "11111111-aaaa-4bbb-8ccc-000000000002",
+   "title": "UI Engineer",
+   "employmentType": "FullTime",
+   "location": "Pune",
+   "publishedAt": "__NOW_ISO__",
+   "isListed": false,
+   "isRemote": false,
+   "workplaceType": "OnSite",
+   "jobUrl": "https://jobs.ashbyhq.com/initech/x2",
+   "descriptionHtml": "<p>Unlisted</p>"
+  }
+ ]
+}

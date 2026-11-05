@@ -1,0 +1,35 @@
+ASHA RAO
+Frontend Engineer | React Developer | Accessibility
+Pune, Maharashtra | +91 90000 00000 | asha.rao@example.com | asharao.example.dev | github.com/asharao-example
+
+PROFESSIONAL SUMMARY
+Frontend Engineer building accessible React and TypeScript interfaces since June 2024. Experienced with Tailwind CSS, REST APIs and automated testing in Agile teams.
+
+TECHNICAL SKILLS
+Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, Python
+Frameworks & Libraries: React.js, Redux, Tailwind CSS
+UI Engineering: Responsive Design, Accessibility (WCAG), REST APIs
+Tools: Git, GitHub, Jest, VS Code
+Methodologies: Agile/Scrum
+
+PROFESSIONAL EXPERIENCE
+Software Engineer (Frontend), Example Labs    Jan 2025 – Present
+• Built reusable React components for an internal analytics dashboard used by 4 product teams.
+• Migrated 30 legacy pages from JavaScript to TypeScript with no production incidents.
+• Wrote Jest unit tests for shared form components.
+Frontend Intern, Sample Systems    Jun 2024 – Dec 2024
+• Implemented responsive layouts with Tailwind CSS for a customer portal.
+
+PROJECTS
+Recipe Finder — Accessible Search App
+Technologies: React, TypeScript, Vite, Tailwind CSS, Playwright
+Live: asharao.example.dev/recipes | GitHub: github.com/asharao-example/recipes
+• Built a keyboard-accessible search interface with debounced filtering and URL-synced state.
+• Added 18 Playwright end-to-end tests covering search, filters and accessibility.
+
+EDUCATION
+Bachelor of Technology, Computer Science 2024
+Example Institute of Technology | CGPA: 8.4/10
+
+CERTIFICATIONS
+• Responsive Web Design — freeCodeCamp

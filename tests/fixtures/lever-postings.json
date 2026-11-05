@@ -1,0 +1,49 @@
+[
+ {
+  "id": "a1b2c3d4-0000-4000-8000-000000000001",
+  "text": "React Developer",
+  "hostedUrl": "https://jobs.lever.co/globex/a1b2c3d4-0000-4000-8000-000000000001",
+  "applyUrl": "https://jobs.lever.co/globex/a1b2c3d4-0000-4000-8000-000000000001/apply",
+  "createdAt": "__NOW_MS__",
+  "categories": {
+   "commitment": "Full-time",
+   "department": "Engineering",
+   "location": "Remote - India",
+   "team": "Web",
+   "allLocations": [
+    "Remote - India"
+   ]
+  },
+  "workplaceType": "remote",
+  "description": "<div>Build React apps.</div>",
+  "descriptionPlain": "Build React apps.",
+  "lists": [
+   {
+    "text": "What you'll need",
+    "content": "<li>React and TypeScript</li><li>CSS and responsive design</li><li>0-2 years of experience</li>"
+   }
+  ],
+  "additional": "<div>Remote within India.</div>",
+  "additionalPlain": "Remote within India."
+ },
+ {
+  "id": "a1b2c3d4-0000-4000-8000-000000000002",
+  "text": "Machine Learning Engineer",
+  "hostedUrl": "https://jobs.lever.co/globex/a1b2c3d4-0000-4000-8000-000000000002",
+  "applyUrl": "https://jobs.lever.co/globex/a1b2c3d4-0000-4000-8000-000000000002/apply",
+  "createdAt": "__NOW_MS__",
+  "categories": {
+   "commitment": "Full-time",
+   "location": "Bengaluru"
+  },
+  "workplaceType": "on-site",
+  "description": "<div>Train models with PyTorch.</div>",
+  "lists": [
+   {
+    "text": "Requirements",
+    "content": "<li>PyTorch, deep learning, LLM fine-tuning</li><li>PhD required</li></ul>"
+   }
+  ],
+  "additional": ""
+ }
+]

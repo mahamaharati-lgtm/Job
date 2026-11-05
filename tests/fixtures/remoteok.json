@@ -1,0 +1,38 @@
+[
+ {
+  "last_updated": 1762160000,
+  "legal": "Link back to Remote OK"
+ },
+ {
+  "slug": "react-dev-9001",
+  "id": "9001",
+  "epoch": "__NOW_S__",
+  "date": "__NOW_ISO__",
+  "company": "Pied Piper",
+  "position": "UI Engineer",
+  "tags": [
+   "react",
+   "javascript"
+  ],
+  "description": "<h3>Requirements</h3><ul><li>React, TypeScript, CSS</li><li>Accessibility</li></ul>",
+  "location": "Worldwide",
+  "salary_min": 40000,
+  "salary_max": 60000,
+  "apply_url": "https://remoteok.com/remote-jobs/9001",
+  "url": "https://remoteok.com/remote-jobs/9001"
+ },
+ {
+  "slug": "golang-9002",
+  "id": "9002",
+  "epoch": "__NOW_S__",
+  "date": "__NOW_ISO__",
+  "company": "Umbrella",
+  "position": "Backend Go Engineer",
+  "tags": [
+   "golang"
+  ],
+  "description": "<p>Go</p>",
+  "location": "EU",
+  "url": "https://remoteok.com/remote-jobs/9002"
+ }
+]

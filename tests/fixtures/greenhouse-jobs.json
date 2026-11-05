@@ -1,0 +1,49 @@
+{
+ "jobs": [
+  {
+   "id": 1001,
+   "internal_job_id": 501,
+   "title": "Frontend Engineer",
+   "updated_at": "__NOW_ISO__",
+   "first_published": "__NOW_ISO__",
+   "requisition_id": "FE-1",
+   "location": {
+    "name": "Pune, India"
+   },
+   "absolute_url": "https://job-boards.greenhouse.io/acme/jobs/1001",
+   "company_name": "Acme",
+   "content": "&lt;h2&gt;About the role&lt;/h2&gt;&lt;p&gt;We are hiring a Frontend Engineer to build accessible web apps in Pune.&lt;/p&gt;\n&lt;h3&gt;Requirements&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;1+ years of experience building web applications with React and TypeScript&lt;/li&gt;&lt;li&gt;Strong HTML, CSS and accessibility (WCAG) skills&lt;/li&gt;&lt;li&gt;Experience with REST APIs and Git&lt;/li&gt;&lt;/ul&gt;\n&lt;h3&gt;Nice to have&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Next.js and GraphQL&lt;/li&gt;&lt;li&gt;Playwright or Jest testing&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Benefits&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;Health insurance&lt;/li&gt;&lt;/ul&gt;",
+   "metadata": null,
+   "departments": [],
+   "offices": []
+  },
+  {
+   "id": 1002,
+   "internal_job_id": 502,
+   "title": "Senior Frontend Engineer",
+   "updated_at": "__NOW_ISO__",
+   "first_published": "__NOW_ISO__",
+   "location": {
+    "name": "Pune, India"
+   },
+   "absolute_url": "https://job-boards.greenhouse.io/acme/jobs/1002",
+   "company_name": "Acme",
+   "content": "&lt;p&gt;Senior Frontend Engineer.&lt;/p&gt;&lt;h3&gt;Requirements&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;6+ years of experience with React&lt;/li&gt;&lt;li&gt;Mentoring engineers&lt;/li&gt;&lt;/ul&gt;"
+  },
+  {
+   "id": 1003,
+   "internal_job_id": 503,
+   "title": "Account Executive",
+   "updated_at": "__NOW_ISO__",
+   "location": {
+    "name": "Mumbai"
+   },
+   "absolute_url": "https://job-boards.greenhouse.io/acme/jobs/1003",
+   "company_name": "Acme",
+   "content": "&lt;p&gt;Sell things.&lt;/p&gt;"
+  }
+ ],
+ "meta": {
+  "total": 3
+ }
+}

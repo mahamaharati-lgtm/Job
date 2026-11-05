@@ -1,0 +1,37 @@
+{
+ "00-warning": "Please credit Remotive",
+ "job-count": 2,
+ "jobs": [
+  {
+   "id": 7001,
+   "url": "https://remotive.com/remote-jobs/software-dev/frontend-developer-7001",
+   "title": "Frontend Developer (React)",
+   "company_name": "Hooli",
+   "category": "Software Development",
+   "tags": [
+    "react",
+    "typescript"
+   ],
+   "job_type": "full_time",
+   "publication_date": "__NOW_ISO__",
+   "candidate_required_location": "USA Only",
+   "salary": "",
+   "description": "<p>React and TypeScript. Must be authorized to work in the United States.</p>"
+  },
+  {
+   "id": 7002,
+   "url": "https://remotive.com/remote-jobs/software-dev/ui-engineer-7002",
+   "title": "UI Engineer",
+   "company_name": "Pied Piper",
+   "category": "Software Development",
+   "tags": [
+    "react"
+   ],
+   "job_type": "full_time",
+   "publication_date": "__NOW_ISO__",
+   "candidate_required_location": "Worldwide",
+   "salary": "",
+   "description": "<h3>Requirements</h3><ul><li>React, TypeScript, CSS</li><li>Accessibility</li></ul>"
+  }
+ ]
+}

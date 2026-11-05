@@ -1,0 +1,31 @@
+# Dependencies and builds
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Secrets and local configuration — never commit these
+.env
+.env.*
+!.env.example
+
+# Runtime data: database, encrypted resumes, tailored resumes, evidence, keys.
+# This folder contains personal information and must never be committed.
+data/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Personal files that should only ever be uploaded through the dashboard
+my-resume*
+resume*.pdf
+resume*.docx
+!tests/fixtures/**
+
+# Test / tooling output
+coverage/
+test-results/
+playwright-report/
+.tmp/
+*.log
+.DS_Store

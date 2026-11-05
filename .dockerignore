@@ -1,0 +1,12 @@
+node_modules
+dist
+data
+.env
+.env.*
+.git
+.tmp
+coverage
+test-results
+tests
+docs
+*.log

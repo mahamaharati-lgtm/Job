@@ -1,0 +1,26 @@
+{
+ "offset": 0,
+ "limit": 100,
+ "totalFound": 1,
+ "content": [
+  {
+   "id": "744000001",
+   "name": "Frontend Developer",
+   "company": {
+    "identifier": "Stark",
+    "name": "Stark Industries"
+   },
+   "releasedDate": "__NOW_ISO__",
+   "location": {
+    "city": "Pune",
+    "country": "in",
+    "remote": false,
+    "hybrid": true,
+    "fullLocation": "Pune, MH, India"
+   },
+   "typeOfEmployment": {
+    "label": "Full-time"
+   }
+  }
+ ]
+}

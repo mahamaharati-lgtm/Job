@@ -1,0 +1,15 @@
+# Self-hosting on any VPS:  docker compose up -d
+# Put secrets in .env next to this file (see .env.example). Data persists in ./data.
+services:
+  app:
+    build: .
+    restart: unless-stopped
+    env_file: .env
+    environment:
+      NODE_ENV: production
+      DATA_DIR: /app/data
+    ports:
+      - "127.0.0.1:8080:8080" # put a TLS reverse proxy (Caddy/nginx) in front; see docs/DEPLOYMENT.md
+    volumes:
+      - ./data:/app/data
+    shm_size: "512mb" # Chromium needs shared memory

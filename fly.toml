@@ -1,0 +1,38 @@
+# Fly.io: fly launch --no-deploy (keep this file), then
+#   fly volumes create job_data --size 1 --region bom
+#   fly secrets set ADMIN_PASSWORD=... DATA_ENCRYPTION_KEY=$(openssl rand -base64 32) CRON_SECRET=$(openssl rand -hex 24)
+#   fly deploy
+app = "job-autopilot"
+primary_region = "bom"
+
+[build]
+  dockerfile = "Dockerfile"
+
+[env]
+  NODE_ENV = "production"
+  DATA_DIR = "/app/data"
+  APP_TIMEZONE = "Asia/Kolkata"
+  PORT = "8080"
+
+[mounts]
+  source = "job_data"
+  destination = "/app/data"
+
+[http_service]
+  internal_port = 8080
+  force_https = true
+  auto_stop_machines = "off"   # the scheduler must keep running
+  auto_start_machines = true
+  min_machines_running = 1
+
+  [[http_service.checks]]
+    grace_period = "30s"
+    interval = "60s"
+    method = "GET"
+    path = "/api/health"
+    timeout = "5s"
+
+[[vm]]
+  memory = "1gb"
+  cpu_kind = "shared"
+  cpus = 1
